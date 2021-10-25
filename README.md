@@ -25,4 +25,4 @@ The next time the user opens KeePass, we can exfiltrate the master key using the
 ![Master Key](https://github.com/plackyhacker/Malicious-KeePass-Plugin/blob/main/images/Exfiltrated_Pass.png?raw=true)
 
 ## Alleviate User Suspicions
-It is very likely that a user will miss their favourite plugin when you have overwritten it with your own. Simply donwload the source code for the target plugin, ammend it to suit your operation needs and ensure the existing functionality is not altered.
+It is very likely that a user will miss their favourite plugin when you have overwritten it with your own. You could download the source code for the target plugin, ammend it to suit your operational needs and ensure the existing functionality is not altered.
