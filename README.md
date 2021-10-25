@@ -3,7 +3,7 @@ I have used the [KeePassHttp Plugin](https://github.com/pfn/keepasshttp) to demo
 
 I tested the PoC against KeePass Password Safe 2.49 (64-bit). This PoC is in no way a bad reflection of the KeePass application but it does demonstrate how the master key can be exfiltrated from a default installation of KeePass.
 
-**Note:** This attack vector can only be used against pre-compiled plugins.
+**Note:** This attack vector can only be used against pre-compiled plugins placed in the plugins cache.
 
 ## The Plugin
 The plugin itself isn't anything particularly complex, but the way in which KeePass compiles plugins and caches the compiled DLL is what interested me.
