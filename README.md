@@ -1,5 +1,5 @@
 # Malicious KeePass Plugin
-I have used the [KeePassHttp Plugin](https://github.com/pfn/keepasshttp) to demonstrate this PoC. I used the [KeePassHttp.plgx](https://github.com/pfn/keepasshttp/blob/master/KeePassHttp.plgx) file. It quite easily have been any other plugin.
+I have used the [KeePassHttp Plugin](https://github.com/pfn/keepasshttp) to demonstrate this PoC. I used the [KeePassHttp.plgx](https://github.com/pfn/keepasshttp/blob/master/KeePassHttp.plgx) file. It could quite easily be any other plugin.
 
 I tested the PoC against KeePass Password Safe 2.49 (64-bit).
 
